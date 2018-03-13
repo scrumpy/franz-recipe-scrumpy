@@ -1,0 +1,12 @@
+{
+  "id": "scrumpy",
+  "name": "Scrumpy",
+  "version": "1.0.0",
+  "description": "Planning, made simple.",
+  "main": "index.js",
+  "author": "Hans Pagel <hans.pagel@scrumpy.io>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://app.scrumpy.io"
+  }
+}
